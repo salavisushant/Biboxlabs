@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Clouds",
+        "image":"https://user-images.githubusercontent.com/87421852/162575718-fa567c07-71a0-46b2-996e-b84b6baa815e.png",
+        "price":"Free"
+    },
+    {
+        "name": "Cow",
+        "image":"https://user-images.githubusercontent.com/87421852/162575766-712c1d91-4e51-47bd-ba97-6be90df87067.png",
+        "price":"Free"
+    },
+     {
+        "name": "Monkey",
+        "image":"https://user-images.githubusercontent.com/87421852/162575786-77f0c6c8-570a-45b9-bef9-4626a73854e4.png",
+        "price":"Free"
+    },
+     {
+        "name": "Tiger",
+        "image":"https://user-images.githubusercontent.com/87421852/162575803-4fd022ea-6de1-48cb-a24f-75e9b3028758.png",
+        "price":"Free"
+    },
+     {
+        "name": "Hill",
+        "image":"https://user-images.githubusercontent.com/87421852/162575821-eed737bc-b4aa-4a9a-979b-683281a60d23.png",
+        "price":"Free"
+    },
+     {
+        "name": "Rabbit",
+        "image":"https://user-images.githubusercontent.com/87421852/162575972-778f4068-ee80-4a82-a431-b5bc10de06f9.png",
+        "price":"Free"
+    },
+     {
+        "name": "Baby",
+        "image":"https://user-images.githubusercontent.com/87421852/162576006-79d93aed-0a22-4ffd-ab79-cd89aae6cdfd.png",
+        "price":"Free"
+    }
+]

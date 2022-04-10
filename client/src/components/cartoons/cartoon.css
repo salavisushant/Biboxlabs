@@ -1,0 +1,15 @@
+.cartoonDiv{
+    width: 95%;
+    height: 50vh;
+    margin-top:10%;
+    display: flex;
+    gap: 0.5%;
+    margin-left:3%;
+    overflow:auto;
+    
+}
+
+.center{
+   
+    margin-left:2%;
+}

@@ -1,0 +1,33 @@
+.mainDiv{
+    width:70%;
+    height:550px;
+    margin-top:7%;
+    margin-left:15%;
+    background-image: url("https://user-images.githubusercontent.com/87421852/162575821-eed737bc-b4aa-4a9a-979b-683281a60d23.png");
+    background-repeat: no-repeat;
+    background-size: 100% 550px;
+    background-color: #8CC1E3;
+    border:1px solid #8CC1E3;;
+}
+
+.cloudImg{
+    width:18%;
+    margin-left: 30%;
+}
+
+.monkeyImg{
+    width:18%;
+    margin-top: 1%;
+    margin-left: 3.5%;
+}
+
+.boyImg{
+    width:15%;
+    margin-left: 40%;
+    margin-top: -23%;
+}
+
+.btnStart{
+    margin-top:-13%;
+    margin-left:85%;
+}
